@@ -1,0 +1,51 @@
+assessment_id,borrower_id,assessment_date,risk_score,market_risk,credit_risk,operational_risk,regulatory_risk,recommendation,reviewed_by,next_review_date
+RA-1,TCS-2,2024-04-24,40,High,High,Moderate,Moderate,Further Review,Michael Perez,2025-06-12
+RA-2,TCS-3,2021-12-28,23,Moderate,Moderate,Low,Low,Further Review,Brian Stark,2025-04-01
+RA-3,TCS-4,2022-02-09,46,High,High,Moderate,Low,Approve,Jessica Smith,2025-09-24
+RA-4,TCS-5,2022-11-15,53,Low,High,High,Low,Reject,Colleen Anderson,2025-02-06
+RA-5,TCS-6,2024-10-01,39,Moderate,High,High,Moderate,Reject,Nicole Huff,2024-11-23
+RA-6,TCS-7,2023-05-09,62,Moderate,Moderate,Low,High,Further Review,Mary Williamson,2025-04-01
+RA-7,TCS-8,2022-09-02,32,High,High,High,Low,Reject,Katherine Trevino,2024-12-30
+RA-8,TCS-9,2022-09-05,57,Moderate,Moderate,Moderate,Low,Reject,Mrs. Anna Savage,2024-12-31
+RA-9,TCS-10,2024-04-28,31,Low,Low,High,Low,Approve,Jonathan Williams,2024-12-20
+RA-10,TCS-11,2022-12-17,14,High,Moderate,Moderate,Low,Reject,Erik Nelson,2024-12-16
+RA-11,TCS-12,2023-06-01,24,Moderate,Moderate,Moderate,High,Approve,Terry Henderson,2025-06-05
+RA-12,TCS-13,2022-12-25,94,Low,Moderate,High,High,Reject,Yesenia Russell,2025-01-24
+RA-13,TCS-14,2023-10-27,50,High,High,Low,Moderate,Approve,Robert Zamora,2025-07-21
+RA-14,TCS-15,2022-11-29,17,High,High,High,High,Approve,Ryan Fuller,2025-06-19
+RA-15,TCS-16,2023-01-20,9,Moderate,Moderate,Low,High,Reject,Karen Duran,2024-12-29
+RA-16,TCS-17,2022-03-13,84,High,High,High,Moderate,Further Review,David Leach,2025-01-30
+RA-17,TCS-18,2024-08-06,38,High,Moderate,Low,Low,Reject,Todd Gallegos,2025-05-05
+RA-18,TCS-19,2022-09-24,3,High,Low,Moderate,High,Reject,Lori Murray,2024-11-14
+RA-19,TCS-20,2021-12-10,39,High,Moderate,Low,High,Further Review,Tina Cooke,2025-03-17
+RA-20,TCS-21,2024-06-17,60,Low,High,High,High,Further Review,George Elliott,2025-02-13
+RA-21,TCS-22,2022-12-04,91,Moderate,High,Moderate,High,Reject,Stephen Rodriguez,2025-04-19
+RA-22,TCS-23,2022-08-17,100,Moderate,Moderate,Low,Low,Approve,Jeanne Rivera,2025-05-06
+RA-23,TCS-24,2023-05-21,58,Low,Low,High,High,Reject,Crystal Cook,2025-11-01
+RA-24,TCS-25,2022-12-04,40,Low,Moderate,Moderate,Low,Further Review,Noah Johns,2025-01-05
+RA-25,TCS-26,2023-05-07,83,Low,Moderate,High,Low,Reject,Timothy Snyder,2025-07-12
+RA-26,TCS-27,2023-02-03,82,High,Low,Low,High,Further Review,Sergio Hernandez,2025-05-21
+RA-27,TCS-28,2023-06-10,9,Moderate,Moderate,Moderate,High,Approve,Lisa Wilson,2025-07-26
+RA-28,TCS-29,2023-06-01,2,Moderate,Moderate,High,Moderate,Reject,Jose Ramos,2024-11-18
+RA-29,TCS-30,2023-03-23,74,Moderate,Moderate,High,Moderate,Further Review,Jessica Williams,2024-12-18
+RA-30,TCS-31,2023-06-22,70,High,Moderate,High,Low,Further Review,Valerie Mcdonald,2025-02-07
+RA-31,TCS-32,2024-05-09,100,Low,Low,Moderate,Low,Reject,Gregory Brown,2025-10-09
+RA-32,TCS-33,2023-01-24,82,Moderate,Moderate,Moderate,Moderate,Reject,James Jackson,2025-01-03
+RA-33,TCS-34,2022-09-06,42,Low,Low,High,Moderate,Reject,Carl Molina,2025-02-23
+RA-34,TCS-35,2021-11-11,8,High,Moderate,High,Moderate,Further Review,Teresa Williams,2024-11-25
+RA-35,TCS-36,2023-09-18,87,Low,Low,Low,Moderate,Further Review,Curtis Mathis,2025-07-11
+RA-36,TCS-37,2024-08-15,4,Moderate,High,High,Moderate,Reject,Laurie Sutton,2025-07-15
+RA-37,TCS-38,2021-11-13,21,Low,High,Moderate,Moderate,Further Review,Jesus Smith,2025-10-11
+RA-38,TCS-39,2023-03-14,23,Moderate,High,Moderate,Low,Further Review,Tammy Rowe,2024-12-10
+RA-39,TCS-40,2022-08-30,21,Moderate,Moderate,High,Moderate,Approve,Eric Rodriguez,2025-08-06
+RA-40,TCS-41,2023-10-03,30,High,Moderate,High,Moderate,Approve,Tammy Price,2025-02-17
+RA-41,TCS-42,2021-12-05,53,Moderate,High,High,Low,Approve,Ricky Larsen,2025-09-07
+RA-42,TCS-43,2023-05-01,53,High,High,High,High,Reject,Eric Davis,2024-12-09
+RA-43,TCS-44,2022-08-01,97,Moderate,Low,High,Moderate,Reject,Edward Brown,2025-06-01
+RA-44,TCS-45,2022-07-13,72,Moderate,Low,Low,High,Reject,Richard Vazquez,2025-07-14
+RA-45,TCS-46,2023-04-17,12,High,Moderate,High,Low,Reject,Joan Lewis,2025-02-26
+RA-46,TCS-47,2022-09-15,41,High,Moderate,Low,High,Reject,Tom Thompson,2025-10-08
+RA-47,TCS-48,2022-10-22,32,High,Low,High,Low,Reject,Monica Henderson,2025-05-29
+RA-48,TCS-49,2024-01-29,40,Moderate,Moderate,Low,High,Reject,Ann Horton,2025-05-11
+RA-49,TCS-50,2022-11-10,96,High,Low,Moderate,Low,Approve,Jacob Contreras,2025-10-01
+RA-50,TCS-1,2024-11-04,66,Moderate,Moderate,Moderate,Low,Approve,Laura Scott,2025-02-25
